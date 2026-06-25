@@ -366,5 +366,3 @@ Another reason is caching
 - Index caches information on working directory
 - When Git has the information for certain file cached, there is no need to look at the working directory file
   </b></details>
-
-
